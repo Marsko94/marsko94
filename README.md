@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<!--
-**Marsko94/marsko94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### :hammer_and_wrench: Languages and Tools: 
 
@@ -36,4 +34,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about curling and metafoos
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
+
