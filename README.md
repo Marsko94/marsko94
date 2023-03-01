@@ -1,4 +1,4 @@
-### Hi there, Im Markus and im a norwegian app and fullstack developer 👋
+### Hello there, Im Markus and im a norwegian app and fullstack developer 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Metafoos. An App and website for keeping score of foosball matches. Coming soon!
 
-- 👯 I’m looking to collaborate on cool projects
+- 👯 I’m looking to collaborate on cool projects and open source
 
 - 💬 Ask me about curling and metafoos
 
