@@ -10,7 +10,9 @@
 
 - 💬 Ask me about curling and metafoos
 
-- Feel free to reach out if you have any business ideas or projects you need a consultant for
+- Feel free to reach out if you have any business ideas or projects you need help for.
+
+- Also check out my medium blog articles: https://medium.com/@markusskogvold/5-essential-books-for-developers-and-tech-leaders-in-2023-700b78e4a90b
 
 
 ### :hammer_and_wrench: Languages and Tools: 
