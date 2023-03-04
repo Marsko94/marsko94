@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on cool projects and open source
 
-- 💬 Ask me about curling and metafoos
+- 💬 Ask me about curling and Metafoos
 
 - Feel free to reach out if you have any business ideas or projects you need help for.
 
