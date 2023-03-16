@@ -32,7 +32,6 @@ Im Markus and im a norwegian app and fullstack developer 👋
    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsko94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - I love reading books, so feel free to buy me a book and maybe make a book suggestions aswell :) 
