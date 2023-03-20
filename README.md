@@ -2,7 +2,7 @@
 Im Markus and im a norwegian app and fullstack developer 👋
 
 <div align="center">
-  <img src="https://imgur.com/a/umbUmc4" width="600" height="300"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/umbUmc4"  ><a href="//imgur.com/a/umbUmc4">Metafoos</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 - 🔭 I’m currently working on Metafoos. An App and website for keeping score of foosball matches. Coming soon!
