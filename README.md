@@ -1,10 +1,6 @@
 ### Hello there, 
 Im Markus and im a norwegian app and fullstack developer 👋
 
-<div align="center">
-
-</div>
-
 - 🔭 I’m currently working on Metafoos. An App and website for keeping score of foosball matches. Coming soon!
 
 - 👯 I’m looking to collaborate on cool projects and open source
