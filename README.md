@@ -1,5 +1,5 @@
 ### Hello there, 
-Im Markus and im a norwegian app and fullstack developer 👋
+Im Markus and im an app and fullstack developer 👋
 
 - 🔭 I’m currently working on Metafoos. An App and website for keeping score of foosball matches. Coming soon!
 
@@ -31,6 +31,7 @@ Im Markus and im a norwegian app and fullstack developer 👋
 
 
 - I love reading books, so feel free to buy me a book and maybe make a book suggestions aswell :) 
+- 
 
 <a href="https://www.buymeacoffee.com/marsko"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=marsko&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
