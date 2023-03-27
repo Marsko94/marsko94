@@ -1,4 +1,4 @@
-### Hello there, 
+### Hello there
 Im Markus and im an app and fullstack developer 👋
 
 - 🔭 I’m currently working on Metafoos. An App and website for keeping score of foosball matches. Coming soon!
