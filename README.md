@@ -1,8 +1,5 @@
-### Hello there
+![hello there](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-<div> 
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" title="React" alt="React" width="40" height="40"/>
-</div>
 
 Im Markus and im an app and fullstack developer 👋
 
