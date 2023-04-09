@@ -9,7 +9,7 @@ Im Markus and im an app and fullstack developer 👋
 
 - 💬 Ask me about curling and Metafoos
 
-- Feel free to reach out.
+- Feel free to reach out!
 
 - Also check out my medium blog articles: https://medium.com/@markusskogvold/5-essential-books-for-developers-and-tech-leaders-in-2023-700b78e4a90b
 
