@@ -1,9 +1,9 @@
 ![hello there](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
 
-Im Markus and im an app and fullstack developer 👋
+Im Markus and im a fullstack developer 👋
 
-- 🔭 I’m currently working on Metafoos. An App and website for keeping score of foosball matches. Coming soon!
+- 🔭 I’m currently working on Metafoos, Festberry and a curling analyzing tool with machine learnig.
 
 - 👯 I’m looking to collaborate on cool projects and open source
 
