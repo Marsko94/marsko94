@@ -3,13 +3,7 @@
 
 Im Markus and im a fullstack developer 👋
 
-- 🔭 I’m currently working on Metafoos, Festberry and a curling analyzing tool with machine learnig.
-
-- 👯 I’m looking to collaborate on cool projects and open source
-
-- 💬 Ask me about curling and Metafoos
-
-- Feel free to reach out!
+- My projects: festberry.com, curlidev, hmlkd.no
 
 - Also check out my medium blog articles: https://medium.com/@markusskogvold/5-essential-books-for-developers-and-tech-leaders-in-2023-700b78e4a90b
 
