@@ -3,7 +3,7 @@
 
 Im Markus and im a fullstack developer 👋
 
-- My projects: festberry.com, curlidev, hmlkd.no
+- My projects: festberry.com, curlidev, hmlkd.no, Chad-curling
 
 - Also check out my medium blog articles: https://medium.com/@markusskogvold/5-essential-books-for-developers-and-tech-leaders-in-2023-700b78e4a90b
 
